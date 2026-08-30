@@ -9,14 +9,8 @@ Downgrade After Effects preset (.ffx) files down to ae 2022 easily, completely i
 3. Launch the file from terminal (python3 [location]).
 4. Type the location of the ffx file or folder you want to convert to the first question (in terminal).
 5. Then choose your target version for the 2nd question.
-6. Finally, choose the output location, if nothing is 
+6. Finally, choose the output location, if nothing is choosen, it will create a new folder for converted files in the same location where the target file or folder was.
 
-### Known bugs:
-- Sometimes adding effects from the allowlist when they're not acctually in the reshade preset.
-- Giving a error: file not found when there is a ' symbol in the .ini file's name (should be fixed by now).
-
-### To use for VKINTOX (SOBER ROBLOX LINUX SHADERS)
-- Take your .conf file and put it in this following folder: /home/YOURUSER/.var/app/org.vinegarhq.Sober/config/VKIntox/configs/
-- In that folder you will also find .conf files for the settings you have used with vkshade on sober earlier.
+Method inspired by [iforgot].
 
 I hope this works good for you! Video tutorial coming soon.
