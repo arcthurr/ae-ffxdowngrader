@@ -11,6 +11,4 @@ Downgrade After Effects preset (.ffx) files down to ae 2022 easily, completely i
 5. Then choose your target version for the 2nd question.
 6. Finally, choose the output location, if nothing is choosen, it will create a new folder for converted files in the same location where the target file or folder was.
 
-Method inspired by [iforgot].
-
 I hope this works good for you! Video tutorial coming soon.
